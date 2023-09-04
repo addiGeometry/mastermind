@@ -1,0 +1,71 @@
+DoD:
+90+% Test abdeckung Unit und Integration vermutlich
+Software lauffähig und aufgabe erfüllt
+Validierung durch User nicht beinhaltet
+Dokumentation komplett vorhanden
+
+
+OUI:
+Wie soll das Spiel gestartet werden? Launcher? Gibt es ein Startmenü?
+Fenster zum starten und navigieren und Spielmodus auswählen, er keine Vorstellung, Auswahlmenü gut
+
+Wie soll das Spiel bedient werden? Maus, Tastatur?
+Beides Maus + Tastatur
+
+Animiert, Schlicht?
+
+
+Wer ist die Zielgruppe des Spiels? Besonderheiten wie Barrierefreiheit? Einfachheit?
+Zielgruppe: nicht beschränkt, auch ätere Dame, Digital natives, Altersgruppe 6-40Jahre
+
+Spiellogik:
+-Gibt es eine begrenzte Anzahl von Pins von jeder Farbe
+6 Farben, Anzahl der Pins unbegrenzt
+
+
+Codierer:
+- Wie sollen die Züge ausgewertet werden? Einer nach dem anderen, alle auf einmal?
+Spieler bewertet manuell den Computer, keine Kontrolle ob ich als Spieler den Computer richtig bewerte -> Falls zu wiedersprüchen führt erkennen und melden
+
+- Wie soll der Computer raten (algorithmisch…)
+
+
+- Soll es Schwierigkeitsstufen geben? Soll der Computer schlau raten? Dumm raten?
+Einheitliche Bewertung des Computers, möglichst schlau
+
+- Soll der Codierer(ich) oder der Computer die Antwort des Computers bewerten?
+Spieler nicht der Computer
+
+-> Spiel ist vorbei (bei 10), wenn alle Schwarz sind und falls wiederspruch zu codiertem nicht passt informieren
+
+UI als Rater:
+- Hat die Reihenfolge der schwarz-weißen Pins bei der Auswertung eine Bedeutung für das Spiel?
+Nein, in keine einzige Richtung, weder Computer-Mensch noch anders herum
+
+- Und wenn nicht haben Sie Konventionen
+
+
+- Kann ich mir am Ende die Lösung anzeigen lassen (wenn ich sie nicht gefunden habe)?
+Ja auf jeden Fall
+
+
+Generell:
+- Wollen Sie bestimmte Farben? (Und das Farbschema? Animierung?)
+Originalfarben des Spiels verwenden
+
+- Hat die Reihenfolge der schwarz-weißen Kugeln eine Bedeutung?
+
+Eine Designlinie, kein Wechsel des Designs zwischen den Bildschirmen
+
+VErmarktung dieses Spiels für z.B. SPielesammlung
+Einfach, neue Teilfunktionen hinzufügbar für bessere VErmarktung
+Robust, keine Abstürze oder Fehlermeldungen slebst bei falschen verhalten des Spielers
+
+Am Ende meldung, Comlputer hat verloren, aber in Zug ... ist ein Fehler gemacht worden (Deshalb nicht geschafft)
+Anleitung knapp, SPielprinzip, Bedienkonzept
+Barrierefreiheit nein!
+
+Highscores?
+Mehrspieler?
+Sollen alte Spiele gespeichert werden?
+Andere Sprachen?

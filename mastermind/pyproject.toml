@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "mastermind"
+version = "0.1.0"
+description = ""
+authors = ["println4debug (Simon), ghpwaev (Sebastian)"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame = "^2.4.0"
+pygame-popup = "0.7.0"
+pypubsub = "^4.0.3"
+pytest = "7.1.2"
+requests = "^2.31.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

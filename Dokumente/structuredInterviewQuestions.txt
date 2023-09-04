@@ -1,0 +1,30 @@
+UI:
+1. Wie soll das Spiel gestartet werden? Launcher? Gibt es ein Startmenü?
+2. Wie soll das Spiel bedient werden? Maus, Tastatur?
+3. Animiert, Schlicht?
+4. Wer ist die Zielgruppe des Spiels? Besonderheiten wie Barrierefreiheit? Einfachheit?
+
+Spiellogik:
+5. Gibt es eine begrenzte Anzahl von Pins von jeder Farbe
+
+Codierer:
+6. Wie sollen die Züge ausgewertet werden? Einer nach dem anderen, alle auf einmal?
+7. Wie soll der Computer raten (algorithmisch…)
+8. Soll es Schwierigkeitsstufen geben? Soll der Computer schlau raten? Dumm raten?
+9. Soll der Codierer(ich) oder der Computer die Antwort des Computers bewerten?
+-> 
+
+UI als Rater:
+10. Hat die Reihenfolge der schwarz-weißen Pins bei der Auswertung eine Bedeutung für das Spiel?
+11. Und wenn nicht haben Sie Konventionen
+12. Kann ich mir am Ende die Lösung anzeigen lassen (wenn ich sie nicht gefunden habe)?
+
+Generell:
+13. Wollen Sie bestimmte Farben? (Und das Farbschema? Animierung?)
+14. Hat die Reihenfolge der schwarz-weißen Kugeln eine Bedeutung?
+
+
+15. Highscores?
+16. Mehrspieler?
+17. Sollen alte Spiele gespeichert werden?
+18. Andere Sprachen?
